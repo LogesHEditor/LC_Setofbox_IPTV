@@ -311,17 +311,17 @@ rtmp://1cloud.digital:1935/onetv/onehollywood
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Local Channels (Tamilnadu)",Rasi Classic
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fleo-tv.png?alt=media&token=bbec0922-0a8c-4680-a764-bbd6115cd4cc" group-title="Local Channels (Tamilnadu)",LEO TV
-http://ipcloud.live:8080/leotv/leotvhd.m3u8
+rtmp://ipcloud.live/leotv/leotvhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fdurai%20tv.png?alt=media&token=a9cb48e8-9a52-4a0f-98fe-1bb9c7667ee7" group-title="Local Channels (Tamilnadu)",Durai TV Tenkasi
-http://ipcloud.live:8080/duraitv/live.m3u8
+rtmp://ipcloud.live/duraitv/live.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2F3-star-tv.png?alt=media&token=01891553-a24c-45c8-a650-51c91e260ac4" group-title="Local Channels (Tamilnadu)",3STAR TV
-http://ipcloud.live:8080/starhd/starhd.m3u8
+rtmp://ipcloud.live/starhd/starhd.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hNKjragyZiADLiGWjE6UY3lKPxfFkWf5I-7a1YfK_vCRaWbLGQg90L9SX85GC8J9R70=w240-h480-rw" group-title="Local Channels (Tamilnadu)",Agni TV
 https://1cloud.digital/bass/agnitv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2FKNR-MAX.png?alt=media&token=3aaf998d-97b1-4210-afa9-3d6864d2c99d" group-title="Local Channels (Tamilnadu)",KNR MAX TV
-http://ipcloud.live:8080/knrtv/knrmax.m3u8
+rtmp://ipcloud.live/knrtv/knrmax.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fpkt-media.png?alt=media&token=65df4156-aefa-41e8-8616-6d7f6cbbb492" group-title="Local Channels (Tamilnadu)",PKT Media TV
-http://ipcloud.live:8080/pktmedia/pktmedia.m3u8
+rtmp://ipcloud.live/pktmedia/pktmedia.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMSN-TV.png?alt=media&token=e2a0664c-ef4f-4603-9936-2d4e439d4bc8" group-title="Local Channels (Tamilnadu)",MSN TV
 https://ipcloud.live/msntv/msntv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FEAGLE-TV.png?alt=media&token=dd6aa4d4-c172-4612-90a0-c6e454ca7bd6" group-title="Local Channels (Tamilnadu)",Eagle2 TV
@@ -335,9 +335,9 @@ https://ipcloud.live/deltatv/deltahd.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NPwmWr-Ek2l10XpzpuDvUQkvNEGxo7vop2imFPKyUqCI5nDprfy1Bcivvax13vKqj80=w480-h960-rw" group-title="Local Channels (Tamilnadu)",M TV
 https://ipcloud.live/mtv/menhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fyogaa-tv.png?alt=media&token=ce543fc6-dde3-482f-a0ac-5e1772913055" group-title="Local Channels (Tamilnadu)",Yogaa TV
-http://ipcloud.live:8080/yogaatv/yogaatv.m3u8
+rtmp://ipcloud.live/yogaatv/yogaatv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fsubam-tv.png?alt=media&token=8ea9c342-2879-41fb-bf8a-11a79bba8637" group-title="Local Channels (Tamilnadu)",Subam TV
-http://ipcloud.live:8080/balu/subamtv.m3u8
+rtmp://ipcloud.live/balu/subamtv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IeIaCvqJwuinzGQUFhY18PPxQip0JmPoRJ3_jy11b1pkB9ztitJYpWGgLNEk8VLfd6I=w240-h480-rw" group-title="Local Channels (Tamilnadu)",Velur TV
 https://1cloud.digital/bass/velurtv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TV.png?alt=media&token=5033fdb8-69d0-4682-9a52-1657a4e27736" group-title="Local Channels (Tamilnadu)",CTN TV
@@ -433,13 +433,13 @@ https://s1.rasinetworks.in/rasinetworks/lifestyle/index.m3u8
 #EXTINF:-1 tvg-logo="https://sscloud7.in/app/admin/assets/tvchannels/phoenixtv1701798030.PNG" group-title="Local Channels (Tamilnadu)",Aasai TV
 http://server.sscloud7.in/aasaitv/aasaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GVUSl8iXMgIt3ViP_cBzdkkSe6lKp18UUF2ylTqhBVuowxOZFeh05ugsm7NzctHG6vY=w240-h480-rw" group-title"Local Channels (Tamilnadu)",R TV
-http://ipcloud.live:8080/rtv/rtvstream.m3u8
+rtmp://ipcloud.live/rtv/rtvstream.m3u8
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg" group-title="Local Channels (Tamilnadu)",Om Sakthi TV
 https://live1.sscloud7.com/hls/omsakthitv.m3u8
 #EXTINF:-1 tvg-logo = "https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/ADAVAN-COLORS-TV.png?alt=media&token=dae83db2-8c13-4b33-8ae8-16ea0039eee1" group-title="Local Channels (Tamilnadu)",AADHAVAN Colours TV 
 https://ipcloud.live/adhavan/colours.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Faadhavan-tv.png?alt=media&token=c91d8301-5cb9-4c0d-9e48-07106bbf6295" group-title="Local Channels (Tamilnadu)",AAdhavan TV
-http://ipcloud.live:8080/aadhavantv/adhavanmdu.m3u8
+rtmp://ipcloud.live/aadhavantv/adhavanmdu.m3u8
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamillive//upload/1670049765_snanplus.png" group-title="Local Channels (Tamilnadu)",Sana Plus HD
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="Local Channels (Tamilnadu)",RAM TV
